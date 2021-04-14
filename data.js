@@ -10,18 +10,22 @@
 let students = [
     {
         name: 'Joe',
+        id: 9132,
         city: 'Miami',
     },
     {
         name: 'John',
+        id: 2342,
         city: 'London',
     },
     {
         name: 'James',
+        id: 34867,
         city: 'Berlin',
     },
     {
         name: 'Javier',
+        id: 234,
         city: 'Liverpool',
     }
 ]
@@ -31,14 +35,17 @@ let instructors = [
     {
         name: 'Gerrard',
         city: 'Madrid',
+        id: 56756,
     },
     {
         name: 'Gerry',
         city: 'Turin',
+        id: 12534,
     },
     {
         name: 'George',
         city: 'Lisbon',
+        id: 45645,
     },
 ]
 
