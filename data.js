@@ -44,7 +44,7 @@ let instructors = [
     },
     {
         name: 'George',
-        city: 'Lisbon',
+        city: 'Porto',
         id: 45645,
     },
 ]
