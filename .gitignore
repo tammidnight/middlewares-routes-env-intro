@@ -1,3 +1,5 @@
 node_modules
 
-.env
+
+# Ideally we would never commit this file
+# .env
